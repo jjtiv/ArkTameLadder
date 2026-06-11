@@ -20,12 +20,17 @@ import {
   GoogleAuthProvider
 } from "https://www.gstatic.com/firebasejs/12.0.0/firebase-auth.js";
 
+const auth = getAuth();
+const provider = new GoogleAuthProvider();
+
+await signInWithPopup(auth, provider);
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 
 const output = document.getElementById("output");
+
 
 try {
 
@@ -57,7 +62,3 @@ catch (error) {
     console.error(error);
 }
 
-const auth = getAuth();
-const provider = new GoogleAuthProvider();
-
-await signInWithPopup(auth, provider);
