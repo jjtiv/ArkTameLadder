@@ -14,6 +14,13 @@ const firebaseConfig = {
   appId: "1:726975353449:web:7e0e8ea399e4e5c4ca48f8"
 };
 
+import {
+  getAuth,
+  signInWithPopup,
+  GoogleAuthProvider
+} from "https://www.gstatic.com/firebasejs/12.0.0/firebase-auth.js";
+
+
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
@@ -49,3 +56,8 @@ catch (error) {
 
     console.error(error);
 }
+
+const auth = getAuth();
+const provider = new GoogleAuthProvider();
+
+await signInWithPopup(auth, provider);
