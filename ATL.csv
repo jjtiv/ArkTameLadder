@@ -1,10 +1,10 @@
 name,status,level
-Dodo,0,1
-Jerboa,0,2
-Phiomia,0,3
-Compy,0,4
-Dilo,0,5
-Parasaur,0,6
+Dodo,1,1
+Jerboa,1,2
+Phiomia,1,3
+Compy,1,4
+Dilo,1,5
+Parasaur,1,6
 Pegomastax,0,7
 Carbonemys,0,8
 Mesopithecus,0,9
@@ -15,119 +15,120 @@ Archaeopteryx,0,13
 Dimorphodon,0,14
 Cat,0,15
 Pachy,0,16
-Achatina,0,17
-Trike,0,18
-Raptor,0,19
-Scorched Carbonemys,0,20
-Equus,0,21
-Dung Beetle,0,22
-Stegotetrabelodon,0,23
-Pulmonoscorpius,0,24
-Procoptodon,0,25
-Armadoggo,0,26
-Ichthyornis,0,27
-Stego,0,28
+Trike,0,17
+Raptor,0,18
+Scorched Carbonemys,0,19
+Equus,0,20
+Dung Beetle,0,21
+Stegotetrabelodon,0,22
+Pulmonoscorpius,0,23
+Procoptodon,0,24
+Armadoggo,0,25
+Ichthyornis,0,26
+Stego,0,27
+Achatina,0,28
 Pachyrhinosaurus,0,29
 Velonasaur,0,30
 Microraptor,0,31
-Gallimimus,0,32
-Kairuku,0,33
-Iguanodon,0,34
-Megaloceros,0,35
-Ovis,0,36
-Kentrosaurus,0,37
-Mammoth,0,38
-Diplodocus,0,39
-Deinonychus,0,40
-Diplocaulus,0,41
-Terror bird,0,42
-Burrowbuck,0,43
-Doedicurus,0,44
-Sarco,0,45
-Otter,0,46
-Hyaenodon,0,47
-Lymantria,0,48
-Vulture,0,49
-Ankylo,0,50
-Sabertooth,0,51
-Direwolf,0,52
-Pteranodon,0,53
-Gacha,0,54
-Kaprosuchus,0,55
-Beelzebufo,0,56
-Thorny dragon,0,57
-Araneo,0,58
-Gigantopithecus,0,59
-Paracer,0,60
-Chalicotherium,0,61
-Oviraptor,0,62
-Hesperornis,0,63
-Pelagornis,0,64
-Gasbags,0,65
-Purlovia,0,66
-Dire Bear,0,67
-Mantis,0,68
-Archelon,0,69
-Carno,0,70
-Ravager,0,71
-Giant Bee,0,72
-Scorched Sarco,0,73
-Baryonyx,0,74
-Yi Ling,0,75
-Drakeling,0,76
-Bison,0,77
-Titanoboa,0,78
-Thylacoleo,0,79
-Megatherium,0,80
-Wooly Rhino,0,81
-Arthroplerua,0,82
-Tapejara,0,83
-Oasisaur,0,84
-Xipactinhs,0,85
-Scorched Mammoth,0,86
-Megalosaurus,0,87
-Roll Rat,0,88
-Onyc,0,89
-Daeodon,0,90
-Ceratosaurus,0,91
-Megaraptor,0,92
-Castoroides,0,93
-Elderclaw,0,94
-Snow owl,0,95
-Argentavis,0,96
-Bronto,0,97
-Plesiosaur,0,98
-Karkinos,0,99
-Managarmr,0,100
-Allosaurus,0,101
-Scorched Megatherium,0,102
-Griffin,0,103
-Therizino,0,104
-Gigantoraptor,0,105
-Rock golem,0,106
-Fasolasuchus,0,107
-Pyromane,0,108
-Brachiosaurus,0,109
-Spino,0,110
-Megalania,0,111
-Rex,0,112
-Desmodus,0,113
-Deinosuchus,0,114
-Rock Drake,0,115
-Wyvern,0,116
-Dreadmare,0,117
-Quetz,0,118
-Purussaurus,0,119
-Acro,0,120
-Yutyrannus,0,121
-Basilisk,0,122
-Deinotherium,0,123
-Pheonix,0,124
-Rhyniognatha,0,125
-Empirosaurus,0,126
-Ledumahadi,0,127
-Helicoprion,0,128
-Giganotosaurus,0,129
-Troodon,0,130
-Carcharo,0,131
-Titanosaur,0,132
+Equus,0,32
+Gallimimus,0,33
+Kairuku,0,34
+Iguanodon,0,35
+Megaloceros,0,36
+Ovis,0,37
+Kentrosaurus,0,38
+Mammoth,0,39
+Diplodocus,0,40
+Deinonychus,0,41
+Diplocaulus,0,42
+Terror bird,0,43
+Burrowbuck,0,44
+Doedicurus,0,45
+Sarco,0,46
+Otter,0,47
+Hyaenodon,0,48
+Lymantria,0,49
+Vulture,0,50
+Ankylo,0,51
+Sabertooth,0,52
+Direwolf,0,53
+Pteranodon,0,54
+Gacha,0,55
+Kaprosuchus,0,56
+Beelzebufo,0,57
+Thorny dragon,0,58
+Araneo,0,59
+Gigantopithecus,0,60
+Paracer,0,61
+Chalicotherium,0,62
+Oviraptor,0,63
+Hesperornis,0,64
+Pelagornis,0,65
+Gasbags,0,66
+Purlovia,0,67
+Dire Bear,0,68
+Mantis,0,69
+Archelon,0,70
+Carno,0,71
+Ravager,0,72
+Giant Bee,0,73
+Scorched Sarco,0,74
+Baryonyx,0,75
+Yi Ling,0,76
+Drakeling,0,77
+Bison,0,78
+Titanoboa,0,79
+Thylacoleo,0,80
+Megatherium,0,81
+Wooly Rhino,0,82
+Arthroplerua,0,83
+Tapejara,0,84
+Oasisaur,0,85
+Xipactinhs,0,86
+Scorched Mammoth,0,87
+Megalosaurus,0,88
+Roll Rat,0,89
+Onyc,0,90
+Daeodon,0,91
+Ceratosaurus,0,92
+Megaraptor,0,93
+Castoroides,0,94
+Elderclaw,0,95
+Snow owl,0,96
+Argentavis,0,97
+Bronto,0,98
+Plesiosaur,0,99
+Karkinos,0,100
+Managarmr,0,101
+Allosaurus,0,102
+Scorched Megatherium,0,103
+Griffin,0,104
+Therizino,0,105
+Gigantoraptor,0,106
+Rock golem,0,107
+Fasolasuchus,0,108
+Pyromane,0,109
+Brachiosaurus,0,110
+Spino,0,111
+Megalania,0,112
+Rex,0,113
+Desmodus,0,114
+Deinosuchus,0,115
+Rock Drake,0,116
+Wyvern,0,117
+Dreadmare,0,118
+Quetz,0,119
+Purussaurus,0,120
+Acro,0,121
+Yutyrannus,0,122
+Basilisk,0,123
+Deinotherium,0,124
+Pheonix,0,125
+Rhyniognatha,0,126
+Empirosaurus,0,127
+Ledumahadi,0,128
+Helicoprion,0,129
+Giganotosaurus,0,130
+Troodon,0,131
+Carcharo,0,132
+Titanosaur,0,133
